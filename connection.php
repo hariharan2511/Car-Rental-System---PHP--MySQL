@@ -3,7 +3,7 @@
 function Connect()
 {
 	$dbhost = "localhost";
-	$dbuser = "root";
+	$dbuser = "root@localhost";
 	$dbpass = "Inspiron@123";
 	$dbname = "car";
 
